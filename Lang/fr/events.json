@@ -397,8 +397,8 @@
       },
       "followDog": {
         "outcomes": {
-          "0": "Vous perdez la trace du chien au bout de quelques minutes, il allait trop vite ! Vous décidez de reprendre votre chemin mais vous rendez vite compte que vous n'aviez pas fait attention à votre orientation... Vous voilà perdu !",
-          "1": "Vous perdez la trace du chien au bout de quelques minutes à côté d'un arbre. En regardant autour de vous vous découvrez plein de petites pièces disséminées un peu partout !"
+          "0": "Vous perdez la trace du chien après quelques minutes, il allait trop vite ! Vous décidez de reprendre votre chemin mais vous vous rendez vite compte que vous n'aviez pas fait attention à votre orientation... Vous voilà perdu !",
+          "1": "Vous perdez la trace du chien après quelques minutes à côté d'un arbre. En regardant autour de vous vous découvrez plein de petites pièces disséminées un peu partout !"
         },
         "text": "Suivre le chien."
       },
