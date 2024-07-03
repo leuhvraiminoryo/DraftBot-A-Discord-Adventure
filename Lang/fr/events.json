@@ -264,7 +264,7 @@
         "outcomes": {
           "0": "Vous faites le tour du château mais vous ne trouvez rien. Estimant avoir perdu suffisamment de temps, vous continuez votre chemin.",
           "1": "Cette ronde ne vous en apprendra pas beaucoup sur la grande bâtisse. Cependant, vous découvrez tout au long de celle-ci un grand nombre de petites pièces d'or disséminées autour du château. Heureux de votre découverte, vous reprenez votre route.",
-          "2": "Alors que vous commenciez à faire le tour du château, vous tombez par accident dans un trou. Blessé à la jambe, il faudra vous soigner avant de continuer !"
+          "2": "Alors que vous commenciez à faire le tour du château, vous tombez accidentellement dans un trou. Blessé à la jambe, il faudra vous soigner avant de continuer !"
         },
         "text": "Faire le tour du château par l'extérieur."
       }
@@ -275,7 +275,7 @@
     "possibilities": {
       "end": {
         "outcomes": {
-          "0": "Après quelques instants de reflexion vous décidez de reprendre la route promptement.",
+          "0": "Après quelques instants de réflexion vous décidez de reprendre la route promptement.",
           "1": "Vous cherchez une autre source de nourriture pendant quelques instants mais vous vous rendez compte au bout de longues recherches que ces dernières sont vaines. Pas convaincu par les options qui s'offrent à vous, vous reprenez votre route."
         }
       },
@@ -1114,7 +1114,7 @@
           "0": "Contre un peu d'argent, il accepte de vous accompagner. Vous partez donc, et peu de temps plus tard, vous tombez sur une rutilante épée plantée dans un rocher. Vous tentez de la sortir, mais vos efforts ne s'avèrent pas concluants. Price essaie à son tour, et arrive à déloger l'arme de sa carapace pierreuse. Sachant qu'il ne serait pas tombé dessus sans vous, il vous donne de l'argent en remerciement, bien plus que ce que vous l'aviez payé. Le reste du voyage se déroulant sans histoire, vous vous séparez après quelques dizaines de kilomètres.",
           "1": "Contre un peu d'argent, il accepte de vous accompagner. Pendant votre périple, vous tombez par chance sur une sacoche abandonnée le long du chemin. Heureux de cette découverte, vous décidez d'en partager le contenu avec Price. Vous obtenez ainsi une rondelette somme d'argent, et un objet qui sera, vous le pensez, utile à votre aventure.",
           "2": "Contre un peu d'argent, il accepte de vous accompagner. Vous cheminez ensemble pendant un petit moment sans que rien de particulier ne se passe, excepté un petit incident avec des voleurs qui ne firent pas long feu face à Price. Puis vous vous quittez.",
-          "3": "Vous lui donnez quelques pièces afin qu'il vous accompagne jusqu'à la prochaine ville. Vous partez vite, et lorsque le soleil se couche, vous bivouaquez puis vous couchez. Vous êtes brusquement réveillé par un bruit de métal s'entrechoquant, et mettez quelques secondes à réaliser que Price rassemble votre argent. Sans y réfléchir à deux fois, vous foncez sur lui, déterminé à le stopper. Il vous assène un violent coup de poing à la tempe, et c'est sonné que vous le voyez s'enfuir avec vos possessions."
+          "3": "Vous lui donnez quelques pièces afin qu'il vous accompagne jusqu'à la prochaine ville. Vous partez vite, et lorsque le soleil se couche, vous bivouaquez puis vous vous couchez. Vous êtes brusquement réveillé par un bruit de métal s'entrechoquant, et mettez quelques secondes à réaliser que Price rassemble votre argent. Sans y réfléchir à deux fois, vous foncez sur lui, déterminé à le stopper. Il vous assène un violent coup de poing à la tempe, et c'est sonné que vous le voyez s'enfuir avec vos possessions."
         },
         "text": "Le payer pour vous escorter jusqu'à votre prochaine destination."
       },
@@ -1287,7 +1287,7 @@
           "0": "Vous partez explorer sa grotte votre torche à la main. Malheureusement, il s'avère que la jeune femme avait la peste et qu'à son contact vous l'avez attrapée.",
           "1": "Après quelques minutes vous arrivez devant la grotte en question. Vous vous avancez d'un pas confiant en direction du fond de celle-ci. C'est alors qu'un bruit sourd se fait entendre. Vous vous retournez et voyez s'abaisser une herse. Une quinzaine de personnes apparaissent alors de l'autre côté. C'était un piège et vous êtes tombé dedans. Après plusieurs heures à parlementer avec vos tortionnaires, ils décident de vous libérer contre un bon paquet de pièces. Vous repartez alors, penaud et jurant à qui veut bien l'entendre qu'on ne vous y reprendra plus.",
           "2": "Vous avancez d'un pas alerte, paré à toute éventualité. Il s'avère que la grotte en question est très profonde et vous passez une bonne heure à en chercher le fond. C'est au moment où vous décidez de rebrousser chemin que vous apercevez du coin de l'œil un reflet métallique. En vous approchant, vous vous rendez compte que c'est un coffre fermé d'une simple corde. Vous tirez sur la corde qui se retire assez facilement. C'est alors que vous ouvrez le coffre : celui-ci contient une quantité de pièces inimaginable ainsi qu'un objet dont vous vous emparez fièrement. De retour à l'extérieur de la grotte, vous rassurez la jeune femme sur la sureté de cette dernière et vous en allez, content de votre butin.",
-          "3": "Vous entrez dans la grotte à petit pas et commencez à l'explorer. Après une quinzaine de mètres vous vous retrouvez face à un ours imposant qui vous fonce dessus. Vous engagez le combat mais vous faites terrasser rapidement. Vous prenez alors la fuite, en sang et dégoulinant de sueur, sous le regard médusé de la demoiselle."
+          "3": "Vous entrez dans la grotte à petit pas et commencez à l'explorer. Après une quinzaine de mètres vous vous retrouvez face à un ours imposant qui vous fonce dessus. Vous engagez le combat mais vous êtes rapidement terrassé. Vous prenez alors la fuite, en sang et dégoulinant de sueur, sous le regard médusé de la demoiselle."
         },
         "text": "Vous empresser de l'aider."
       }
@@ -1915,7 +1915,7 @@
       },
       "end": {
         "outcomes": {
-          "0": "vous asseyez au bord de la rivière, l'eau est fraîche et vous décidez d'y mettre les pieds. Après quelques minutes de pur bonheur, une vive douleur vous fait sortir les pieds de l'eau à toute vitesse. Vous apercevez un énorme crabe accroché à votre pied. Vous ressentez une vive douleur, mais vous allez pouvoir faire un délicieux repas qui vous revigorera.",
+          "0": "vous vous asseyez au bord de la rivière, l'eau est fraîche et vous décidez d'y mettre les pieds. Après quelques minutes de pur bonheur, une vive douleur vous fait sortir les pieds de l'eau à toute vitesse. Vous apercevez un énorme crabe accroché à votre pied. La douleur est intense, mais vous allez pouvoir faire un délicieux repas qui vous revigorera.",
           "1": "avez faim. Vous regardez dans la rivière et apercevez ces fameux crabes gigantesques. Il y a deux espèces. Une de couleur rouge orangée et une aux couleurs rouges et noires. Vous hésitez et décidez de tenter votre chance avec les gros rouge-orangé. Après les avoir préparés et engloutis, vous commencez à avoir chaud et à transpirer. Vous comprenez votre erreur trop tard, vous avez choisi l'espèce non-comestible.",
           "2": "marchez dans la rivière lorsque vous trébuchez. Vous vous assommez au passage. Par chance, le courant est fort et vous vous retrouvez sur le bord de la rivière. Vous êtes sonné, mais en vie."
         }
@@ -2324,14 +2324,14 @@
         "outcomes": {
           "0": "Vous avez l'impression d'être adoubé - en effet, Donia touche du bout de son bâton vos épaules, la droite suivant la gauche, vous bénissant ainsi. Après la cérémonie, vous ne vous sentez pas vraiment différent.",
           "1": "Vous vous sentez surpuissant après sa bénédiction... jusqu'à ce que Donia s'en aille. Vous tentez de la retrouver, embêté d'avoir cru pareille folie, mais n'y arrivez pas. Vous partez, honteux et confus, et jurez, mais un peu tard, qu'elle ne vous y prendra plus.",
-          "2": "Alors que Donia commence à vous \"bénir\", elle vous envoie au visage une étrange poudre bleue. La forêt commence à tanguer sous vos yeux, et Donia vous guide jusqu'à un arbre voisin, contre lequel vous vous endormez. Vous rêvez alors du château royal, et vous voyez participer à un important banquet. La princesse vous approche, un voile distordu et noir dissimulant son visage, sans doute car vous ne connaissez pas sa réelle apparence. Vous passez le reste du rêve à danser avec elle... Vous restez ainsi à dormir d'un sommeil revigorant."
+          "2": "Alors que Donia commence à vous \"bénir\", elle vous envoie au visage une étrange poudre bleue. La forêt commence à tanguer sous vos yeux, et Donia vous guide jusqu'à un arbre voisin, contre lequel vous vous endormez. Vous rêvez alors du château royal et assistez à un banquet important. La princesse vous approche, un voile sombre dissimulant son visage, sans doute car vous ne connaissez pas sa réelle apparence. Vous passez le reste du rêve à danser avec elle... Vous demeurez plongé dans un sommeil revigorant."
         },
         "text": "Accepter son offre."
       },
       "comrpomise": {
         "outcomes": {
           "0": "Elle semble déçue, mais vous offre une rose rouge, en tant que cadeau pour la princesse. Vous reprenez chemin, tout aussi déçu qu'elle, n'ayant reçu qu'une pauvre fleur.",
-          "1": "Plutôt qu'une bénédiction vous lui demandez si elle connaît un endroit en cette forêt où vous pourriez vous reposer un moment. Elle vous amène alors à sa maison, où vous recevez de la bonne nourriture ainsi que du vin. Ce dernier est incroyablement agréable et vous finissez la bouteille entière, vous traînant après cela jusqu'à un lit. Alors que vous dormez, vous faites un cauchemar assez particulier : Donia y est une vieille femme voûtée, archétype de la sorcière, et elle veut vous tuer avant de vous cuire en son four. La véritable Donia vous laisse ainsi endormi et continue sa route."
+          "1": "Plutôt qu'une bénédiction vous lui demandez si elle connaît un endroit en cette forêt où vous pourriez vous reposer un moment. Elle vous amène alors à sa maison, où vous recevez de la bonne nourriture ainsi que du vin. Ce dernier est incroyablement agréable et vous finissez la bouteille entière, vous traînant après cela jusqu'à un lit. Alors que vous dormez, vous faites un cauchemar assez particulier : Donia y est une vieille femme voûtée, archétype de la sorcière, et elle veut vous tuer avant de vous cuire dans son four. La véritable Donia vous laisse ainsi endormi et continue sa route."
         },
         "text": "Trouver un compromis."
       },
@@ -2344,7 +2344,7 @@
       },
       "end": {
         "outcomes": {
-          "0": "Alors que vous la fixez en silence pendant un bon moment, Donia semble se désintéresser de vous, et s'en va sans rien dire de plus. Mais vous continuez de fixer. Sans la moindre pensée. Ce n'est que quelques heures plus tard que vous reprenez vos esprits, et continuez votre voyage, comme si rien ne venait de se passer..."
+          "0": "Alors que vous la fixez en silence pendant un bon moment, Donia semble se désintéresser de vous, et s'en va sans rien dire de plus. Votre regard reste fixe, sans la moindre pensée. Ce n'est que quelques heures plus tard que vous reprenez vos esprits, et continuez votre voyage, comme si rien ne venait de se passer..."
         }
       }
     },
@@ -2503,7 +2503,7 @@
       "end": {
         "outcomes": {
           "0": "Vous quittez la foule afin de vous glisser discrètement à l'arrière de la roulotte de l'homme à l'embonpoint. À l'intérieur de sa modeste demeure sur roue, vous apercevez une chatte avec ses petits chatons et comprenez immédiatement la supercherie ! Vous approchez le dresseur et exigez de l'argent en échange de votre silence.",
-          "1": "Fasciné par ces adorables bébés, vous vous faufilez vers l'arrière de la roulotte du dresseur pour voir s'il y en a d'autres, afin d'en voler un pour le revendre à bon prix. Cependant, seule une chatte allaitant ses petits est présente. Par dépit, vous attrapez le plus joli chaton et le cachez dans votre besace. Fûté comme vous l'êtes, vous trouvez rapidement une personne qui accepte l'échange.",
+          "1": "Fasciné par ces adorables bébés, vous vous faufilez vers l'arrière de la roulotte du dresseur pour voir s'il y en a d'autres, afin d'en voler un pour le revendre à bon prix. Cependant, seule une chatte allaitant ses petits est présente. Par dépit, vous attrapez le plus joli chaton et le cachez dans votre besace. Futé comme vous l'êtes, vous trouvez rapidement une personne qui accepte l'échange.",
           "2": "Vous vous éloignez de la foule pour chercher un meilleur endroit permettant d'assister au spectacle. Absorbé par ce dernier, vous ne regardez pas où se posent vos pieds, et tombez dans une lourde malle ouverte, abandonnée négligemment au milieu du chemin. Avant même de comprendre ce qu'il vous arrive, la malle se referme sur vous, vous assommant. Vous ne vous réveillez que bien plus tard."
         }
       },
